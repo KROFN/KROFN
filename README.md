@@ -1,3 +1,3 @@
 # KROFN
 
-Second permission test.
+Product-minded Fullstack and Python developer.
