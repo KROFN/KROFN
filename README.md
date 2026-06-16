@@ -1,64 +1,47 @@
-# KROFN / krofne
+<div align="center">
+
+# krofne
 
 > i share your dream.
 
-**Product-minded Fullstack and Python developer** building practical tools, web apps and automation-heavy systems.
+**Product-minded Fullstack & Python developer**  
+Practical tools · web apps · education products · Minecraft tooling
 
-I like projects where software is not just a demo, but a controlled workflow: clear UX, reproducible setup, safe defaults and honest documentation.
+</div>
+
+---
+
+## Build profile
+
+| Direction | What I care about |
+|---|---|
+| **Tooling** | CLI/TUI utilities, local-first workflows, release discipline |
+| **Web apps** | clean interfaces, dashboards, landing pages, education products |
+| **Minecraft** | modpack tooling, plugins, updater systems |
+| **Engineering** | validation, dry runs, CI, docs and reproducible setup |
+
+## Selected work
+
+| Project | Description | Status |
+|---|---|---|
+| **[PackGuard](https://github.com/KROFN/packguard)** | Manifest sync toolkit for Minecraft modpack maintainers. Core engine, CLI workflow, validation, dry-run planning and release checks. | `v0.1 alpha` |
+| **[Melodine](https://github.com/KROFN/melodine)** | Interactive Python TUI utility for playlist workflows, search UX, metadata, local history and themes. | `usable` |
+| **[DemidHelp](https://github.com/KROFN/demidhelp)** | Focused EGE prep web app built around lesson blocks and fast recall cards. | `private-use` |
+| **Client/event websites** | Landing pages and public web projects for real people, events and portfolio practice. | `portfolio` |
+
+## Stack
 
 ```text
-web apps      -> interfaces, landing pages, dashboards, education tools
-python tools  -> CLI and TUI utilities, automation, local-first workflows
-minecraft     -> modpack tooling, plugins, updater systems
-engineering   -> validation, dry runs, CI and release discipline
+Frontend     React · Next.js · TypeScript · Tailwind CSS · Vite
+Backend/data Supabase · Prisma · SQLite
+Tools        Python · CLI/TUI apps · Electron · Bun · pnpm
+Game tooling Java · Minecraft plugins · modpack tooling
+Ops focus    Linux · Caddy · CI/CD · reproducible setup
 ```
 
-## Selected projects
+## Now
 
-### PackGuard
-
-Safety-first manifest sync toolkit for Minecraft modpack maintainers.
-
-A TypeScript workspace with a core engine and CLI workflow. The project focuses on manifest validation, dry-run planning, guarded apply, integrity checks and release discipline.
-
-**Status:** v0.1 alpha.
-
----
-
-### Melodine
-
-Interactive Python TUI utility for playlist workflows, search UX, metadata, local history and themes.
-
-**Status:** stable usable tool.
-
----
-
-### DemidHelp
-
-Focused EGE prep web app built around lesson blocks and fast recall cards.
-
-**Status:** private-use educational product.
-
----
-
-### Client and event websites
-
-Landing pages and public web projects built for real people, events and portfolio practice.
-
-Representative work: karataeva-site, imgifted-fest, lak-and-point, smart-otdelka.
-
-## Tech stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite  
-**Data:** Supabase, Prisma, SQLite  
-**Tools:** Python, CLI/TUI apps, Electron, Bun, pnpm and npm workflows  
-**Game tooling:** Java, Minecraft plugins, modpack tooling, updater systems  
-**Infrastructure interests:** Linux, Caddy, CI/CD, deployment automation and reproducible setup
-
-## Current focus
-
-- polishing public repositories into clean portfolio-ready projects
-- building PackGuard as a safety-first tooling project
+- building PackGuard as a clean alpha tooling project
+- polishing public repositories into portfolio-ready work
 - turning practical tools into OSS-style releases
-- improving READMEs, demos, CI checks and project documentation
-- building products that solve real workflows instead of only looking good in screenshots
+- building products that solve real workflows, not just screenshots
