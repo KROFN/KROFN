@@ -1,3 +1,3 @@
 # KROFN
 
-Permission test only.
+Second permission test.
